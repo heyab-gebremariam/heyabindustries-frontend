@@ -30,12 +30,12 @@ main:has(> section.bg-light) {
 }
 
 .projects-page{
-  padding-top: 1800px;
+  padding-top: 1350px;
 }
 
 /* Contact page specific styling */
 .contact-page {
-  margin-top: 100px;
+  padding-top: 100px;
 }
 
 /* Content alignment */
